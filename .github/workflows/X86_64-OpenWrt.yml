@@ -204,7 +204,7 @@ jobs:
         tag_name: openwrt_X86-X64_${{ env.FILE_DATE }}_build${{ github.run_number }}
         files: ${{ env.FIRMWARE_PATH }}/*
         body: |
-          包含openclash、IPV6、打印机驱动、Zerotier、Easytier、应用过滤、Docker、Lucky、Istore、AdBlock Fast
+          包含Openclash、IPV6、打印机驱动、Zerotier、Easytier、应用过滤、Docker、Lucky、Istore、AdBlock Fast
 
           ### 📒 固件信息
           - 💻平台架构: ${{ env.DEVICE_TARGET }}-${{ env.DEVICE_SUBTARGET }}
