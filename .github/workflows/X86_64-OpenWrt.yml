@@ -100,7 +100,7 @@ jobs:
         echo "OPENWRT_PATH=$PWD" >> $GITHUB_ENV
         COMMIT_AUTHOR=$(git show -s --date=short --format="作者: %an")
         echo "COMMIT_AUTHOR=$COMMIT_AUTHOR" >> $GITHUB_ENV
-        COMMIT_DATE=$(git show -s --date=short --format="时间: %ci")
+        COMMIT_DATE=$(git show -s --date=local --format="时间: %cd")
         echo "COMMIT_DATE=$COMMIT_DATE" >> $GITHUB_ENV
         COMMIT_MESSAGE=$(git show -s --date=short --format="内容: %s")
         echo "COMMIT_MESSAGE=$COMMIT_MESSAGE" >> $GITHUB_ENV
