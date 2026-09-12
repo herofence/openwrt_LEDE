@@ -95,7 +95,7 @@ git_sparse_clone main https://github.com/Lienol/openwrt-package luci-app-filebro
 git_sparse_clone openwrt-18.06 https://github.com/immortalwrt/luci applications/luci-app-eqos
 # 科学上网插件
 git clone --depth=1 https://github.com/vernesong/OpenClash.git package/luci-app-openclash
-git clone https://github.com/xiaorouji/openwrt-passwall-packages package/openwrt-passwall
+# git clone https://github.com/xiaorouji/openwrt-passwall-packages package/openwrt-passwall
 # git clone https://github.com/xiaorouji/openwrt-passwall package/luci-app-passwall
 
 # 更改默认主题
