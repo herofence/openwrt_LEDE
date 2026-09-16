@@ -1,4 +1,4 @@
-感谢：<br>
+借鉴以下源码，感谢：<br>
 https://github.com/kxdn3/OpenWrt-haiibo<br>
 https://github.com/coolsnowwolf/lede<br>
 https://github.com/xiaorouji/openwrt-passwall<br>
