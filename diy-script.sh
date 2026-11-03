@@ -80,8 +80,7 @@ git clone https://github.com/sirpdboy/netspeedtest.git package/netspeedtest
 # 应用过滤
 # git clone --depth=1 https://github.com/destan19/OpenAppFilter package/OpenAppFilter
 #VNT
-git clone https://github.com/herofence/luci-app-vnt.git package/vnt
-git clone https://github.com/cg8-5712/vnt.git package/vnt
+git clone https://github.com/wanghlstar/luci-app-vnt2web package/luci-app-vnt2web
 #EasyTier
 git clone --depth=1 https://github.com/EasyTier/luci-app-easytier package/luci-app-easytier
 #tailscale
