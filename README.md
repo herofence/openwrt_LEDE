@@ -9,3 +9,4 @@ https://github.com/sirpdboy/luci-app-ddns-go<br>
 https://github.com/vernesong/OpenClash<br>
 https://github.com/cg8-5712/vnt<br>
 https://github.com/whzhni1/luci-app-vnt2<br>
+https://github.com/wanghlstar/luci-app-vnt2web
